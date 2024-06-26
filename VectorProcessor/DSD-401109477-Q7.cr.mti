@@ -1,0 +1,36 @@
+{C:/Users/ARTA PC/OneDrive/Desktop/DSD-401109477-MD-Q7/mathUnit.v} {1 {vlog -work work -vopt -stats=none {C:/Users/ARTA PC/OneDrive/Desktop/DSD-401109477-MD-Q7/mathUnit.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module mathUnit
+
+Top level modules:
+	mathUnit
+
+} {} {}} {C:/Users/ARTA PC/OneDrive/Desktop/DSD-401109477-MD-Q7/processor.v} {1 {vlog -work work -vopt -stats=none {C:/Users/ARTA PC/OneDrive/Desktop/DSD-401109477-MD-Q7/processor.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module processor
+
+Top level modules:
+	processor
+
+} {} {}} {C:/Users/ARTA PC/OneDrive/Desktop/DSD-401109477-MD-Q7/test1.v} {1 {vlog -work work -vopt -stats=none {C:/Users/ARTA PC/OneDrive/Desktop/DSD-401109477-MD-Q7/test1.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module test1
+
+Top level modules:
+	test1
+
+} {} {}} {C:/Users/ARTA PC/OneDrive/Desktop/DSD-401109477-MD-Q7/memory.v} {1 {vlog -work work -vopt -stats=none {C:/Users/ARTA PC/OneDrive/Desktop/DSD-401109477-MD-Q7/memory.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module memory
+
+Top level modules:
+	memory
+
+} {} {}} {C:/Users/ARTA PC/OneDrive/Desktop/DSD-401109477-MD-Q7/register.v} {1 {vlog -work work -vopt -stats=none {C:/Users/ARTA PC/OneDrive/Desktop/DSD-401109477-MD-Q7/register.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module register
+
+Top level modules:
+	register
+
+} {} {}}

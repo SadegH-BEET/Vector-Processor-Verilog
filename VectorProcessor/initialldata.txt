@@ -1,0 +1,35 @@
+// memory data file (do not edit the following line - required for mem load use)
+// instance=/Memory_tb/memory/memory
+// format=hex addressradix=h dataradix=h version=1.0 wordsperline=1 noaddress 
+00000000
+00000000
+FFFFFFFF
+F0000000
+F0000000
+0000000F
+00000001
+00000001
+80000000
+0F0000F0
+0F0000F0
+000FF000
+7FFFFFFF
+FFFF0000
+0000FFFF
+0000000F
+00000000
+FFFFFFFF
+FFFFFFFF
+F0000000
+0000000F
+0000000F
+00000001
+80000000
+80000000
+0F0000F0
+000FF000
+000FF000
+7FFFFFFF
+0000FFFF
+0000FFFF
+00000002
